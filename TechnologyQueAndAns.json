@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "que": "In which decade was the American Institute of Electrical Engineers (AIEE) founded?",
+    "choices": {
+        "A":"1850s",
+        "B":"1880s",
+        "C":"1930s",
+        "D":"1950s"
+    },
+    "correct_ans": "1880s",
+    "correct_ans_choice": "B",
+    "category": "Technology",
+    "category_wise_Qno":"1"
+  },
+  {
+    "id": 2,
+    "que": "What is part of a database that holds only one type of information?",
+    "choices": {
+        "A":"Report",
+        "B":"Field",
+        "C":"Record",
+        "D":"File"
+    },
+    "correct_ans": "Field",
+    "correct_ans_choice": "B",
+    "category": "Technology",
+    "category_wise_Qno":"2"
+  },
+  {
+    "id": 3,
+    "que": "'OS' computer abbreviation usually means ?",
+    "choices": {
+        "A":"Order of Significance",
+        "B":"Open Software",
+        "C":"Operating System",
+        "D":"Optical Sensor"
+    },
+    "correct_ans": "Operating System",
+    "correct_ans_choice": "C",
+    "category": "Technology",
+    "category_wise_Qno":"3"
+  },
+  {
+    "id": 4,
+    "que": "In which decade with the first transatlantic radio broadcast occur?",
+    "choices": {
+        "A":"1850s",
+        "B":"1860s",
+        "C":"1870s",
+        "D":"1900s"
+    },
+    "correct_ans": "1900s",
+    "correct_ans_choice": "D",
+    "category": "Technology",
+    "category_wise_Qno":"4"
+  },
+  {
+    "id": 5,
+    "que": "'.MOV' extension refers usually to what kind of file?",
+    "choices": {
+        "A":"Image file",
+        "B":"Animation/movie file",
+        "C":"Audio file",
+        "D":"MS Office document"
+    },
+    "correct_ans": "Animation/movie file",
+    "correct_ans_choice": "B",
+    "category": "Technology",
+    "category_wise_Qno":"5"
+  },
+  {
+    "id": 6,
+    "que": "In which decade was the SPICE simulator introduced?",
+    "choices": {
+        "A":"1950s",
+        "B":"1960s",
+        "C":"1970s",
+        "D":"1980s"
+    },
+    "correct_ans": "1970s",
+    "correct_ans_choice": "C",
+    "category": "Technology",
+    "category_wise_Qno":"6"
+  },
+  {
+    "id": 7,
+    "que": "Most modern TV's draw power even if turned off. The circuit the power is used in does what function?",
+    "choices": {
+        "A":"Sound",
+        "B":"Remote control",
+        "C":"Color balance",
+        "D":"High voltage"
+    },
+    "correct_ans": "Remote control",
+    "correct_ans_choice": "B",
+    "category": "Technology",
+    "category_wise_Qno":"7"
+  },
+  {
+    "id": 8,
+    "que": "Which is a type of Electrically-Erasable Programmable Read-Only Memory?",
+    "choices": {
+        "A":"Flash",
+        "B":"Flange",
+        "C":"Fury",
+        "D":"FRAM"
+    },
+    "correct_ans": "Flash",
+    "correct_ans_choice": "A",
+    "category": "Technology",
+    "category_wise_Qno":"8"
+  },
+  {
+    "id": 9,
+    "que": "The purpose of choke in tube light is ?",
+    "choices": {
+        "A":"To decrease the current",
+        "B":"To increase the current",
+        "C":"To decrease the voltage momentarily",
+        "D":"To increase the voltage momentarily"
+    },
+    "correct_ans": "To increase the voltage momentarily",
+    "correct_ans_choice": "D",
+    "category": "Technology",
+    "category_wise_Qno":"9"
+  },
+  {
+    "id": 10,
+    "que": "'.MPG' extension refers usually to what kind of file?",
+    "choices": {
+        "A":"WordPerfect Document file",
+        "B":"MS Office document",
+        "C":"Animation/movie file",
+        "D":"Image file"
+    },
+    "correct_ans": "Animation/movie file",
+    "correct_ans_choice": "C",
+    "category": "Technology",
+    "category_wise_Qno":"10"
+  }
+]

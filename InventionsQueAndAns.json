@@ -1,0 +1,143 @@
+[
+    {
+      "id": 11,
+      "que": "Who invented the BALLPOINT PEN?",
+      "choices": {
+          "A":"Biro Brothers",
+          "B":"Waterman Brothers",
+          "C":"Bicc Brothers",
+          "D":"Write Brothers"
+      },
+      "correct_ans": "Biro Brothers",
+      "correct_ans_choice": "A",
+      "category": "Inventions",
+      "category_wise_Qno":"1"
+    },
+    {
+      "id": 12,
+      "que": "In which decade was the first solid state integrated circuit demonstrated?",
+      "choices": {
+          "A":"1950s",
+          "B":"1960s",
+          "C":"1970s",
+          "D":"1980s"
+      },
+      "correct_ans": "1950s",
+      "correct_ans_choice": "A",
+      "category": "Inventions",
+      "category_wise_Qno":"2"
+    },
+    {
+      "id": 13,
+      "que": "What J. B. Dunlop invented?",
+      "choices": {
+          "A":"Pneumatic rubber tire",
+          "B":"Automobile wheel rim",
+          "C":"Rubber boot",
+          "D":"Model airplanes"
+      },
+      "correct_ans": "Pneumatic rubber tire",
+      "correct_ans_choice": "A",
+      "category": "Inventions",
+      "category_wise_Qno":"3"
+    },
+    {
+      "id": 14,
+      "que": "Which scientist discovered the radioactive element radium?",
+      "choices": {
+          "A":"Isaac Newton",
+          "B":"Albert Einstein",
+          "C":"18Benjamin Franklin70s",
+          "D":"Marie Curie"
+      },
+      "correct_ans": "Marie Curie",
+      "correct_ans_choice": "D",
+      "category": "Inventions",
+      "category_wise_Qno":"4"
+    },
+    {
+      "id": 15,
+      "que": "When was barb wire patented?",
+      "choices": {
+          "A":"1874",
+          "B":"1840",
+          "C":"1895",
+          "D":"1900"
+      },
+      "correct_ans": "1874",
+      "correct_ans_choice": "A",
+      "category": "Inventions",
+      "category_wise_Qno":"5"
+    },
+    {
+      "id": 16,
+      "que": "What is the name of the CalTech seismologist who invented the scale used to measure the magnitude of earthquakes?",
+      "choices": {
+          "A":"Charles Richter",
+          "B":"Hiram Walker",
+          "C":"Giuseppe Mercalli",
+          "D":"Joshua Rumble"
+      },
+      "correct_ans": "Charles Richter",
+      "correct_ans_choice": "A",
+      "category": "Inventions",
+      "category_wise_Qno":"6"
+    },
+    {
+      "id": 17,
+      "que": "What Galileo invented?",
+      "choices": {
+          "A":"Barometer",
+          "B":"Pendulum clock",
+          "C":"Microscope",
+          "D":"Thermometer"
+      },
+      "correct_ans": "Thermometer",
+      "correct_ans_choice": "D",
+      "category": "Inventions",
+      "category_wise_Qno":"7"
+    },
+    {
+      "id": 18,
+      "que": "This statesman, politican, scholar, inventor, and one of early presidents of USA invented the swivel chair, the spherical sundial, the moldboard plow, and the cipher wheel.",
+      "choices": {
+          "A":"George Washington",
+          "B":"Alexander Hamilton",
+          "C":"John Adams",
+          "D":"Thomas Jefferson"
+      },
+      "correct_ans": "Thomas Jefferson",
+      "correct_ans_choice": "D",
+      "category": "Inventions",
+      "category_wise_Qno":"8"
+    },
+    {
+      "id": 19,
+      "que": "What James Watt invented?",
+      "choices": {
+          "A":"Diving bell",
+          "B":"Steam boat",
+          "C":"Hot air balloon",
+          "D":"Rotary steam engine"
+      },
+      "correct_ans": "Rotary steam engine",
+      "correct_ans_choice": "D",
+      "category": "Inventions",
+      "category_wise_Qno":"9"
+    },
+    {
+      "id": 20,
+      "que": "Where is the village of Branston, after which the famous pickle is named?",
+      "choices": {
+          "A":"Yorkshire",
+          "B":"Lancashire",
+          "C":"Staffordshire",
+          "D":"Norfolk"
+      },
+      "correct_ans": "Staffordshire",
+      "correct_ans_choice": "C",
+      "category": "Inventions",
+      "category_wise_Qno":"10"
+    }
+  ]
+  

@@ -1,0 +1,143 @@
+[
+    {
+      "id": 21,
+      "que": "Against which player did Magnus Carlsen defend his title of World Chess Champion in 2018",
+      "choices": {
+          "A":"Sergey Karjakin",
+          "B":"Vishwanathan Anand",
+          "C":"Fabiano Caruana",
+          "D":"Johann Zukertort"
+      },
+      "correct_ans": "Fabiano Caruana",
+      "correct_ans_choice": "C",
+      "category": "Sports",
+      "category_wise_Qno":"1"
+    },
+    {
+      "id": 22,
+      "que": "Who is the most successful boxer in the World Amateur Boxing Championships in men?",
+      "choices": {
+          "A":"Roberto Balado",
+          "B":"Felix Savon",
+          "C":"Zou Shiming",
+          "D":"Adolfo Horta"
+      },
+      "correct_ans": "Felix Savon",
+      "correct_ans_choice": "B",
+      "category": "Sports",
+      "category_wise_Qno":"2"
+    },
+    {
+      "id": 23,
+      "que": "Which country had won maximum number of medals in the 2018 UCI Track Cycling World Championships?",
+      "choices": {
+          "A":"Great Britain",
+          "B":"France",
+          "C":"Australia",
+          "D":"Italy"
+      },
+      "correct_ans": "France",
+      "correct_ans_choice": "B",
+      "category": "Sports",
+      "category_wise_Qno":"3"
+    },
+    {
+      "id": 24,
+      "que": "Where are the headquarters of FICP located?",
+      "choices": {
+          "A":"Rome",
+          "B":"Berlin",
+          "C":"Luxembourg",
+          "D":"Paris"
+      },
+      "correct_ans": "Luxembourg",
+      "correct_ans_choice": "C",
+      "category": "Sports",
+      "category_wise_Qno":"4"
+    },
+    {
+      "id": 25,
+      "que": "Which of the following wrestling styles is part of the Olympics?",
+      "choices": {
+          "A":"Greco-Roman wrestling",
+          "B":"Men’s freestyle wrestling",
+          "C":"Women’s freestyle wrestling",
+          "D":"All of the above"
+      },
+      "correct_ans": "All of the above",
+      "correct_ans_choice": "D",
+      "category": "Sports",
+      "category_wise_Qno":"5"
+    },
+    {
+      "id": 26,
+      "que": "Who had proposed the Olympic motto?",
+      "choices": {
+          "A":"Andrew Parsons",
+          "B":"Baron Coubertin",
+          "C":"Henri Didon",
+          "D":"Carl Jung"
+      },
+      "correct_ans": "Baron Coubertin",
+      "correct_ans_choice": "B",
+      "category": "Sports",
+      "category_wise_Qno":"6"
+    },
+    {
+      "id": 27,
+      "que": "Which Indian player has recorded the maximum number of wins in Davis Cup?",
+      "choices": {
+          "A":"Mahesh Bhupathi",
+          "B":"Leander Paes",
+          "C":"Sumit Nagal",
+          "D":"Rohan Bopanna"
+      },
+      "correct_ans": "Leander Paes",
+      "correct_ans_choice": "B",
+      "category": "Sports",
+      "category_wise_Qno":"7"
+    },
+    {
+      "id": 28,
+      "que": "Where are the headquarters of International Hockey Federation located?",
+      "choices": {
+          "A":"Lausanne",
+          "B":"Berlin",
+          "C":"Amsterdam",
+          "D":"London"
+      },
+      "correct_ans": "Lausanne",
+      "correct_ans_choice": "A",
+      "category": "Sports",
+      "category_wise_Qno":"8"
+    },
+    {
+      "id": 29,
+      "que": "Who among the following was first black Formula One World Champion in history?",
+      "choices": {
+          "A":"Felipe Massa",
+          "B":"Jensson Button",
+          "C":"Lewis Hamilton",
+          "D":"Fernando Alonso"
+      },
+      "correct_ans": "Lewis Hamilton",
+      "correct_ans_choice": "C",
+      "category": "Sports",
+      "category_wise_Qno":"9"
+    },
+    {
+      "id": 30,
+      "que": "Who among the following is the First Indian Women to get an Olympic Medal?",
+      "choices": {
+          "A":"Anju Bobby George",
+          "B":"Karnam Malleshwari",
+          "C":"P T Usha",
+          "D":"Nameirakpam Kunjarani"
+      },
+      "correct_ans": "Karnam Malleshwari",
+      "correct_ans_choice": "B",
+      "category": "Sports",
+      "category_wise_Qno":"10"
+    }
+  ]
+  
